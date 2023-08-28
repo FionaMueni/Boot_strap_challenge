@@ -1,10 +1,7 @@
-
-.card{
+.container-lg{
     transition: all 0.3s;
 }
-
-
-.card hover{
+.contgainer-lg hover{
     transform: scale(1.15);
 
 }
