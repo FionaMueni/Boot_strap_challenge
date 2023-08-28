@@ -1,7 +1,7 @@
 .container-lg{
     transition: all 0.3s;
 }
-.contgainer-lg hover{
+.container-lg hover{
     transform: scale(1.15);
 
 }
